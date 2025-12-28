@@ -65,7 +65,7 @@ A **Connect 4 game** implemented in Python with a GUI and AI opponent using the 
 ---
 ## 📸 Images
 
-![Screenshot 614](image/Screenshot _616.png)
-![Screenshot 616](image/Screenshot _614.png)
-![Screenshot 617](image/Screenshot _617.png)
+![Screenshot 614](image/Screenshot_616.png)
+![Screenshot 616](image/Screenshot_614.png)
+![Screenshot 617](image/Screenshot_617.png)
 
