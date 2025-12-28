@@ -62,6 +62,11 @@ A **Connect 4 game** implemented in Python with a GUI and AI opponent using the 
 ## 👩‍💻 Author
 **Menna Adel**
 
+---
+## 📸 Images
 
+![Screenshot 614](images/Screenshot_614.png)
+![Screenshot 616](images/Screenshot_616.png)
+![Screenshot 617](images/Screenshot_617.png)
 
 
