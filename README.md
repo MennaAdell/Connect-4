@@ -25,7 +25,7 @@ A **Connect 4 game** implemented in Python with a GUI and AI opponent using the 
 
 ## ⚡ How to Run
 1. Clone or download this repository.  
-2. Make sure `pygame` is installed (see requirements).  
+2. Make sure `pygame` is installed .  
 3. Open the project folder.  
 4. Run the game:  
    - On **Windows**: double-click `GUI.py`  
